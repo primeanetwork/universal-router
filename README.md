@@ -1,3 +1,5 @@
+> **Independent fork** — not affiliated with Uniswap. See NOTICE.md.
+
 # Universal Router
 
 Please read the [Contributions](https://github.com/Uniswap/universal-router#contributions) section before submitting a Pull Request.
